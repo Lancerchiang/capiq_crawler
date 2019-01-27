@@ -1,0 +1,745 @@
+1547441373900	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w4/f_qnp2wd4992pqc9szncrqlm0000gn/T/rust_mozprofile.QgvVmHHTZZXg"
+1547441374633	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547441374633	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1547441376363	Marionette	INFO	Listening on port 51925
+1547441376415	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.capitaliq.com/CIQDotNet/WebResource.axd?d=Gnh8dAmrgUw3egQ_mGseaapCXxRD0Yct9q2zB91UZHrAv6ezm2P65FkiXL7jk08fmYcPLoCzmnQ8F9N5qzvtETPg2L-geTIFFt4jqSYoEof4PuIPSGvA2FscQbEabCZ90&t=636778012620805885, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1547441420928	Marionette	INFO	Stopped listening on port 51925
+1547441422380	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w4/f_qnp2wd4992pqc9szncrqlm0000gn/T/rust_mozprofile.kVrRju5MnV54"
+1547441422819	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547441422819	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1547441424126	Marionette	INFO	Listening on port 51996
+1547441424229	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.capitaliq.com/CIQDotNet/WebResource.axd?d=0D0T0T80awIdHGTuVd15SdxDjwQGw8mDjt5IGJcEu1v-s61fC7qQm2Q1IJHof3ftcrpZjyEJwE0DMeW4uf9uDQDQyr6z-RM6RwrpUpoirEOx4tyTCa76ZC4lx-JLI-Ux0&t=636778012620805885, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1547441467282	Marionette	INFO	Stopped listening on port 51996
+1547441468767	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w4/f_qnp2wd4992pqc9szncrqlm0000gn/T/rust_mozprofile.RzaYUeBkJeXE"
+1547441469168	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547441469168	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1547441470489	Marionette	INFO	Listening on port 52069
+1547441470516	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.capitaliq.com/CIQDotNet/WebResource.axd?d=tWombjhvKE2uwKzn7S6iNaIvze9SK0UGRP5YFjnmrvqp5XqEeSpkX0giULiLFz8mpViHYNmoPlIu05caIpr24Q2E1koL4IBtVGiLOLP2l8f_8A7hmw_CeGhOA7TNKuSE0&t=636778012620805885, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1547441513488	Marionette	INFO	Stopped listening on port 52069
+1547441514993	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w4/f_qnp2wd4992pqc9szncrqlm0000gn/T/rust_mozprofile.x13Uml5ISynK"
+1547441515418	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547441515419	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+[Child 2444, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+1547441906926	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w4/f_qnp2wd4992pqc9szncrqlm0000gn/T/rust_mozprofile.bd2t1Z5i8dMq"
+1547441907349	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547441907349	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1547441908651	Marionette	INFO	Listening on port 52180
+1547441908690	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.capitaliq.com/CIQDotNet/WebResource.axd?d=0D0T0T80awIdHGTuVd15SdxDjwQGw8mDjt5IGJcEu1v-s61fC7qQm2Q1IJHof3ftcrpZjyEJwE0DMeW4uf9uDQDQyr6z-RM6RwrpUpoirEOx4tyTCa76ZC4lx-JLI-Ux0&t=636778012620805885, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1547441952435	Marionette	INFO	Stopped listening on port 52180
+1547441953917	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w4/f_qnp2wd4992pqc9szncrqlm0000gn/T/rust_mozprofile.Dp8mvFqAS0J5"
+1547441954329	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547441954329	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1547441955646	Marionette	INFO	Listening on port 52241
+1547441955658	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.capitaliq.com/CIQDotNet/WebResource.axd?d=V-SWLnQ68csIKOZQtjS9FS4oKCFiBof9V2sglcTHUnA6r3gc4WjeBdgiXTP9hFWejHth3Jbc0e3Utm1S5GGkkgxILlk__BlxgCTPZJbXL04ejWBr5S10o0X_dVJ6XqiD0&t=636778012620805885, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+1547441998770	Marionette	INFO	Stopped listening on port 52241
+1547442000278	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w4/f_qnp2wd4992pqc9szncrqlm0000gn/T/rust_mozprofile.ukB3tJVIIIom"
+1547442000685	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547442000686	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1547560189391	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w4/f_qnp2wd4992pqc9szncrqlm0000gn/T/rust_mozprofile.391urNbcxUcd"
+1547560189950	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547560189950	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1547560191521	Marionette	INFO	Listening on port 53733
+1547560191560	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4401, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+1547570840082	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w4/f_qnp2wd4992pqc9szncrqlm0000gn/T/rust_mozprofile.zLITORFPqb9a"
+1547570840614	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547570840614	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1547570842191	Marionette	INFO	Listening on port 57774
+1547570842247	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.capitaliq.com/CIQDotNet/WebResource.axd?d=NmaK6NLY28DuxoXoM4_mXJ9iK9soD79fMnLPkPY2iTTuU0DUcpoeHnKxzOQUc6081qi7mqksnJWk-_PwpIJUC0bFAiMHX0iP5ZUpc_wS3cFdDbgW6Gkw-i2jcRYLQc2R0&t=636778012620805885, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 7273, Chrome_ChildThread] WARNING: pipe error: Socket is not connected: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+1547571762179	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w4/f_qnp2wd4992pqc9szncrqlm0000gn/T/rust_mozprofile.3kQh6AqfGVRT"
+1547571762622	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547571762623	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1547571764107	Marionette	INFO	Listening on port 61489
+1547571764150	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.capitaliq.com/CIQDotNet/WebResource.axd?d=tWombjhvKE2uwKzn7S6iNaIvze9SK0UGRP5YFjnmrvqp5XqEeSpkX0giULiLFz8mpViHYNmoPlIu05caIpr24Q2E1koL4IBtVGiLOLP2l8f_8A7hmw_CeGhOA7TNKuSE0&t=636778012620805885, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1547571807307	Marionette	INFO	Stopped listening on port 61489
+1547571808770	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w4/f_qnp2wd4992pqc9szncrqlm0000gn/T/rust_mozprofile.b2wtydCAqboJ"
+1547571809209	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547571809209	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1547571810527	Marionette	INFO	Listening on port 61743
+1547571810540	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1547572024601	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w4/f_qnp2wd4992pqc9szncrqlm0000gn/T/rust_mozprofile.zhDfb3454nVS"
+1547572024998	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547572024999	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1547572026316	Marionette	INFO	Listening on port 62712
+1547572026377	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.capitaliq.com/CIQDotNet/WebResource.axd?d=9ckKHkMUsgHiKUNe9MKxGGVcrbFb4MSMlpf1zk1VZOV0-2FrNnGEXJO5ZrX0j0Q2y9wogYN2lBq6fIEdSs9rtuuIBP1bCI09BnMD2sky8n-ciIBcMU1DdZMEaSNo-As50&t=636778012620805885, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 7718, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1547629173362	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w4/f_qnp2wd4992pqc9szncrqlm0000gn/T/rust_mozprofile.kM7hNHIMH0iZ"
+1547629173897	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547629173897	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1547629175435	Marionette	INFO	Listening on port 57515
+1547629175518	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.capitaliq.com/CIQDotNet/WebResource.axd?d=MtxzftXywmoxWjEuFxN3H77YYgaC5YinympTD6o2PlUo8GjVhM7ucZrDdRAKo31w4xwqUP6LGqLfFIdODFB6U9O61Mieep0gQT8TYb5I0wWSEpTq2voYwUL2cN_JFI4M0&t=636778012620805885, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1547629218257	Marionette	INFO	Stopped listening on port 57515
+1547629219747	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w4/f_qnp2wd4992pqc9szncrqlm0000gn/T/rust_mozprofile.heAxdyv9w49Y"
+1547629220121	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547629220121	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1547629221394	Marionette	INFO	Listening on port 57772
+1547629221495	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.capitaliq.com/CIQDotNet/WebResource.axd?d=Gnh8dAmrgUw3egQ_mGseaapCXxRD0Yct9q2zB91UZHrAv6ezm2P65FkiXL7jk08fmYcPLoCzmnQ8F9N5qzvtETPg2L-geTIFFt4jqSYoEof4PuIPSGvA2FscQbEabCZ90&t=636778012620805885, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1547629263946	Marionette	INFO	Stopped listening on port 57772
+1547629265431	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w4/f_qnp2wd4992pqc9szncrqlm0000gn/T/rust_mozprofile.vUHJE2jEmHzF"
+1547629265809	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547629265809	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 11629, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+1547708001563	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w4/f_qnp2wd4992pqc9szncrqlm0000gn/T/rust_mozprofile.m05Px8EDADKL"
+1547708002146	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547708002146	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1547708003717	Marionette	INFO	Listening on port 59681
+1547708003815	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.capitaliq.com/CIQDotNet/WebResource.axd?d=0D0T0T80awIdHGTuVd15SdxDjwQGw8mDjt5IGJcEu1v-s61fC7qQm2Q1IJHof3ftcrpZjyEJwE0DMeW4uf9uDQDQyr6z-RM6RwrpUpoirEOx4tyTCa76ZC4lx-JLI-Ux0&t=636778012620805885, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1547708046073	Marionette	INFO	Stopped listening on port 59681
+1547708047576	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w4/f_qnp2wd4992pqc9szncrqlm0000gn/T/rust_mozprofile.DZuYW5YjSN9E"
+1547708048018	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547708048018	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1547708049267	Marionette	INFO	Listening on port 59928
+1547708049314	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1547708491726	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w4/f_qnp2wd4992pqc9szncrqlm0000gn/T/rust_mozprofile.IXyYZHDxP5Yd"
+1547708492131	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547708492131	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1547708493484	Marionette	INFO	Listening on port 61933
+1547708493572	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.capitaliq.com/CIQDotNet/WebResource.axd?d=V-SWLnQ68csIKOZQtjS9FS4oKCFiBof9V2sglcTHUnA6r3gc4WjeBdgiXTP9hFWejHth3Jbc0e3Utm1S5GGkkgxILlk__BlxgCTPZJbXL04ejWBr5S10o0X_dVJ6XqiD0&t=636778012620805885, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1547799960826	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w4/f_qnp2wd4992pqc9szncrqlm0000gn/T/rust_mozprofile.QuDJEKibYw8U"
+1547799961428	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547799961428	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1547799962847	Marionette	INFO	Listening on port 52550
+1547799962882	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.capitaliq.com/CIQDotNet/WebResource.axd?d=Gnh8dAmrgUw3egQ_mGseaapCXxRD0Yct9q2zB91UZHrAv6ezm2P65FkiXL7jk08fmYcPLoCzmnQ8F9N5qzvtETPg2L-geTIFFt4jqSYoEof4PuIPSGvA2FscQbEabCZ90&t=636778012620805885, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1547800413372	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w4/f_qnp2wd4992pqc9szncrqlm0000gn/T/rust_mozprofile.06jaQFeP0FLl"
+1547800414093	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547800414093	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1547800415557	Marionette	INFO	Listening on port 52666
+1547800415645	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.capitaliq.com/CIQDotNet/WebResource.axd?d=MtxzftXywmoxWjEuFxN3H77YYgaC5YinympTD6o2PlUo8GjVhM7ucZrDdRAKo31w4xwqUP6LGqLfFIdODFB6U9O61Mieep0gQT8TYb5I0wWSEpTq2voYwUL2cN_JFI4M0&t=636778012620805885, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1547800453576	Marionette	INFO	Stopped listening on port 52666
+1547800455101	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w4/f_qnp2wd4992pqc9szncrqlm0000gn/T/rust_mozprofile.UPhxSUPiVjd4"
+1547800455564	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547800455564	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1547800456914	Marionette	INFO	Listening on port 52735
+1547800456954	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1547800582219	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w4/f_qnp2wd4992pqc9szncrqlm0000gn/T/rust_mozprofile.gckpsOSYVPLI"
+1547800582723	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547800582723	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1547800584063	Marionette	INFO	Listening on port 52801
+1547800584102	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.capitaliq.com/CIQDotNet/WebResource.axd?d=NmaK6NLY28DuxoXoM4_mXJ9iK9soD79fMnLPkPY2iTTuU0DUcpoeHnKxzOQUc6081qi7mqksnJWk-_PwpIJUC0bFAiMHX0iP5ZUpc_wS3cFdDbgW6Gkw-i2jcRYLQc2R0&t=636778012620805885, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1547800638091	Marionette	INFO	Stopped listening on port 52801
+1547800639535	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w4/f_qnp2wd4992pqc9szncrqlm0000gn/T/rust_mozprofile.LLCCeVXfT4F8"
+1547800640017	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547800640017	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1547800641431	Marionette	INFO	Listening on port 52862
+1547800641501	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.capitaliq.com/CIQDotNet/WebResource.axd?d=MtxzftXywmoxWjEuFxN3H77YYgaC5YinympTD6o2PlUo8GjVhM7ucZrDdRAKo31w4xwqUP6LGqLfFIdODFB6U9O61Mieep0gQT8TYb5I0wWSEpTq2voYwUL2cN_JFI4M0&t=636778012620805885, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1547800686742	Marionette	INFO	Stopped listening on port 52862
+1547800688184	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w4/f_qnp2wd4992pqc9szncrqlm0000gn/T/rust_mozprofile.Dmpxcu4ANMbl"
+1547800688611	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547800688612	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1547800689961	Marionette	INFO	Listening on port 52932
+1547800690039	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.capitaliq.com/CIQDotNet/WebResource.axd?d=0D0T0T80awIdHGTuVd15SdxDjwQGw8mDjt5IGJcEu1v-s61fC7qQm2Q1IJHof3ftcrpZjyEJwE0DMeW4uf9uDQDQyr6z-RM6RwrpUpoirEOx4tyTCa76ZC4lx-JLI-Ux0&t=636778012620805885, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1547800863719	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w4/f_qnp2wd4992pqc9szncrqlm0000gn/T/rust_mozprofile.gtabR2IJfzBt"
+1547800864204	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547800864205	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1547800865632	Marionette	INFO	Listening on port 53017
+1547800865681	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.capitaliq.com/CIQDotNet/WebResource.axd?d=Gnh8dAmrgUw3egQ_mGseaapCXxRD0Yct9q2zB91UZHrAv6ezm2P65FkiXL7jk08fmYcPLoCzmnQ8F9N5qzvtETPg2L-geTIFFt4jqSYoEof4PuIPSGvA2FscQbEabCZ90&t=636778012620805885, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1547800919979	Marionette	INFO	Stopped listening on port 53017
+1547800921430	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w4/f_qnp2wd4992pqc9szncrqlm0000gn/T/rust_mozprofile.gkEvFZ54Tczd"
+1547800921899	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547800921900	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1547800923197	Marionette	INFO	Listening on port 53079
+1547800923288	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.capitaliq.com/CIQDotNet/WebResource.axd?d=MtxzftXywmoxWjEuFxN3H77YYgaC5YinympTD6o2PlUo8GjVhM7ucZrDdRAKo31w4xwqUP6LGqLfFIdODFB6U9O61Mieep0gQT8TYb5I0wWSEpTq2voYwUL2cN_JFI4M0&t=636778012620805885, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+1547800968270	Marionette	INFO	Stopped listening on port 53079
+1547800979812	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w4/f_qnp2wd4992pqc9szncrqlm0000gn/T/rust_mozprofile.47PTs11jcAlV"
+1547800980238	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547800980239	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1547800981568	Marionette	INFO	Listening on port 53152
+1547800981661	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.capitaliq.com/CIQDotNet/WebResource.axd?d=9ckKHkMUsgHiKUNe9MKxGGVcrbFb4MSMlpf1zk1VZOV0-2FrNnGEXJO5ZrX0j0Q2y9wogYN2lBq6fIEdSs9rtuuIBP1bCI09BnMD2sky8n-ciIBcMU1DdZMEaSNo-As50&t=636778012620805885, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+1547801026931	Marionette	INFO	Stopped listening on port 53152
+1547801028612	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w4/f_qnp2wd4992pqc9szncrqlm0000gn/T/rust_mozprofile.ojKvAA7N53Yc"
+1547801029055	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547801029056	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1547801030423	Marionette	INFO	Listening on port 53223
+1547801030460	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.capitaliq.com/CIQDotNet/WebResource.axd?d=V-SWLnQ68csIKOZQtjS9FS4oKCFiBof9V2sglcTHUnA6r3gc4WjeBdgiXTP9hFWejHth3Jbc0e3Utm1S5GGkkgxILlk__BlxgCTPZJbXL04ejWBr5S10o0X_dVJ6XqiD0&t=636778012620805885, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+1547801076956	Marionette	INFO	Stopped listening on port 53223
+1547801078408	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w4/f_qnp2wd4992pqc9szncrqlm0000gn/T/rust_mozprofile.OLhBsKMWRgci"
+1547801078857	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547801078857	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1547801080275	Marionette	INFO	Listening on port 53286
+1547801080364	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1547801257684	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w4/f_qnp2wd4992pqc9szncrqlm0000gn/T/rust_mozprofile.ym4FFiulynAg"
+1547801258139	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547801258140	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1547801259500	Marionette	INFO	Listening on port 53356
+1547801259544	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.capitaliq.com/CIQDotNet/WebResource.axd?d=V-SWLnQ68csIKOZQtjS9FS4oKCFiBof9V2sglcTHUnA6r3gc4WjeBdgiXTP9hFWejHth3Jbc0e3Utm1S5GGkkgxILlk__BlxgCTPZJbXL04ejWBr5S10o0X_dVJ6XqiD0&t=636778012620805885, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1547801314704	Marionette	INFO	Stopped listening on port 53356
+1547801316334	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w4/f_qnp2wd4992pqc9szncrqlm0000gn/T/rust_mozprofile.dbBuckseXI6n"
+1547801316814	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547801316814	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1547801318274	Marionette	INFO	Listening on port 53424
+1547801318315	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1547801344146	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w4/f_qnp2wd4992pqc9szncrqlm0000gn/T/rust_mozprofile.ADBGV92KHx8x"
+1547801344597	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547801344597	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1547801345957	Marionette	INFO	Listening on port 53478
+1547801345999	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.capitaliq.com/CIQDotNet/WebResource.axd?d=9ckKHkMUsgHiKUNe9MKxGGVcrbFb4MSMlpf1zk1VZOV0-2FrNnGEXJO5ZrX0j0Q2y9wogYN2lBq6fIEdSs9rtuuIBP1bCI09BnMD2sky8n-ciIBcMU1DdZMEaSNo-As50&t=636778012620805885, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1547801400140	Marionette	INFO	Stopped listening on port 53478
+1547801401639	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w4/f_qnp2wd4992pqc9szncrqlm0000gn/T/rust_mozprofile.pSce5xaeQsqi"
+1547801402082	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547801402082	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1547801403423	Marionette	INFO	Listening on port 53537
+1547801403492	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.capitaliq.com/CIQDotNet/WebResource.axd?d=Gnh8dAmrgUw3egQ_mGseaapCXxRD0Yct9q2zB91UZHrAv6ezm2P65FkiXL7jk08fmYcPLoCzmnQ8F9N5qzvtETPg2L-geTIFFt4jqSYoEof4PuIPSGvA2FscQbEabCZ90&t=636778012620805885, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+1547801448557	Marionette	INFO	Stopped listening on port 53537
+1547801453237	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w4/f_qnp2wd4992pqc9szncrqlm0000gn/T/rust_mozprofile.0Ek5schoj24h"
+1547801453688	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547801453688	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1547801455022	Marionette	INFO	Listening on port 53599
+1547801455103	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.capitaliq.com/CIQDotNet/WebResource.axd?d=9ckKHkMUsgHiKUNe9MKxGGVcrbFb4MSMlpf1zk1VZOV0-2FrNnGEXJO5ZrX0j0Q2y9wogYN2lBq6fIEdSs9rtuuIBP1bCI09BnMD2sky8n-ciIBcMU1DdZMEaSNo-As50&t=636778012620805885, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1547801493112	Marionette	INFO	Stopped listening on port 53599
+1547801494597	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w4/f_qnp2wd4992pqc9szncrqlm0000gn/T/rust_mozprofile.Qw1Z7Axx0z3a"
+1547801495027	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547801495028	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1547801496367	Marionette	INFO	Listening on port 53657
+1547801496442	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.capitaliq.com/CIQDotNet/WebResource.axd?d=tWombjhvKE2uwKzn7S6iNaIvze9SK0UGRP5YFjnmrvqp5XqEeSpkX0giULiLFz8mpViHYNmoPlIu05caIpr24Q2E1koL4IBtVGiLOLP2l8f_8A7hmw_CeGhOA7TNKuSE0&t=636778012620805885, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1547801550758	Marionette	INFO	Stopped listening on port 53657
+1547801552210	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w4/f_qnp2wd4992pqc9szncrqlm0000gn/T/rust_mozprofile.vFkDfDVAZLTs"
+1547801552687	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547801552687	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1547801554043	Marionette	INFO	Listening on port 53716
+1547801554068	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.capitaliq.com/CIQDotNet/WebResource.axd?d=Gnh8dAmrgUw3egQ_mGseaapCXxRD0Yct9q2zB91UZHrAv6ezm2P65FkiXL7jk08fmYcPLoCzmnQ8F9N5qzvtETPg2L-geTIFFt4jqSYoEof4PuIPSGvA2FscQbEabCZ90&t=636778012620805885, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1547802194070	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w4/f_qnp2wd4992pqc9szncrqlm0000gn/T/rust_mozprofile.xiullJIHwUS2"
+1547802194567	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547802194568	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1547802195993	Marionette	INFO	Listening on port 53852
+1547802196024	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.capitaliq.com/CIQDotNet/WebResource.axd?d=tWombjhvKE2uwKzn7S6iNaIvze9SK0UGRP5YFjnmrvqp5XqEeSpkX0giULiLFz8mpViHYNmoPlIu05caIpr24Q2E1koL4IBtVGiLOLP2l8f_8A7hmw_CeGhOA7TNKuSE0&t=636778012620805885, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1547951595427	Marionette	INFO	Stopped listening on port 53852
+1547951597469	Marionette	INFO	Stopped listening on port 52550
+1547951599426	Marionette	INFO	Stopped listening on port 61933
+1548088878110	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w4/f_qnp2wd4992pqc9szncrqlm0000gn/T/rust_mozprofile.I6c962pWY7Oc"
+1548088878759	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548088878759	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548088880467	Marionette	INFO	Listening on port 55977
+1548088880568	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.capitaliq.com/CIQDotNet/WebResource.axd?d=MtxzftXywmoxWjEuFxN3H77YYgaC5YinympTD6o2PlUo8GjVhM7ucZrDdRAKo31w4xwqUP6LGqLfFIdODFB6U9O61Mieep0gQT8TYb5I0wWSEpTq2voYwUL2cN_JFI4M0&t=636778012620805885, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1548313393372	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w4/f_qnp2wd4992pqc9szncrqlm0000gn/T/rust_mozprofile.VwmIzejqBSJO"
+1548313394215	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548313394215	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548313396016	Marionette	INFO	Listening on port 59003
+1548313396042	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.capitaliq.com/CIQDotNet/WebResource.axd?d=9ckKHkMUsgHiKUNe9MKxGGVcrbFb4MSMlpf1zk1VZOV0-2FrNnGEXJO5ZrX0j0Q2y9wogYN2lBq6fIEdSs9rtuuIBP1bCI09BnMD2sky8n-ciIBcMU1DdZMEaSNo-As50&t=636778012620805885, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1548313559913	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w4/f_qnp2wd4992pqc9szncrqlm0000gn/T/rust_mozprofile.YlK8qjQWqD45"
+1548313560439	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548313560439	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548313561840	Marionette	INFO	Listening on port 59092
+1548313561854	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.capitaliq.com/CIQDotNet/WebResource.axd?d=9ckKHkMUsgHiKUNe9MKxGGVcrbFb4MSMlpf1zk1VZOV0-2FrNnGEXJO5ZrX0j0Q2y9wogYN2lBq6fIEdSs9rtuuIBP1bCI09BnMD2sky8n-ciIBcMU1DdZMEaSNo-As50&t=636778012620805885, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1548313848454	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w4/f_qnp2wd4992pqc9szncrqlm0000gn/T/rust_mozprofile.KRuXNMBJYwi0"
+1548313849095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548313849095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548313850541	Marionette	INFO	Listening on port 59240
+1548313850594	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.capitaliq.com/CIQDotNet/WebResource.axd?d=MtxzftXywmoxWjEuFxN3H77YYgaC5YinympTD6o2PlUo8GjVhM7ucZrDdRAKo31w4xwqUP6LGqLfFIdODFB6U9O61Mieep0gQT8TYb5I0wWSEpTq2voYwUL2cN_JFI4M0&t=636778012620805885, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1548313920226	Marionette	INFO	Stopped listening on port 59240
+1548313923172	Marionette	INFO	Stopped listening on port 59092
+Can't find symbol 'GetGraphicsResetStatus'.
+1548313929935	Marionette	INFO	Stopped listening on port 59003
+1548313932555	Marionette	INFO	Stopped listening on port 55977
+1548314009065	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w4/f_qnp2wd4992pqc9szncrqlm0000gn/T/rust_mozprofile.Cb4xAD6A7gpM"
+1548314009573	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548314009573	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548314010975	Marionette	INFO	Listening on port 59330
+1548314011007	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.capitaliq.com/CIQDotNet/WebResource.axd?d=NmaK6NLY28DuxoXoM4_mXJ9iK9soD79fMnLPkPY2iTTuU0DUcpoeHnKxzOQUc6081qi7mqksnJWk-_PwpIJUC0bFAiMHX0iP5ZUpc_wS3cFdDbgW6Gkw-i2jcRYLQc2R0&t=636778012620805885, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1548318477092	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w4/f_qnp2wd4992pqc9szncrqlm0000gn/T/rust_mozprofile.iA8x9tarhyXP"
+1548318477769	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548318477769	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548318479331	Marionette	INFO	Listening on port 60109
+1548318479343	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.capitaliq.com/CIQDotNet/WebResource.axd?d=tWombjhvKE2uwKzn7S6iNaIvze9SK0UGRP5YFjnmrvqp5XqEeSpkX0giULiLFz8mpViHYNmoPlIu05caIpr24Q2E1koL4IBtVGiLOLP2l8f_8A7hmw_CeGhOA7TNKuSE0&t=636778012620805885, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1548318519099	Marionette	INFO	Stopped listening on port 60109
+1548318520612	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w4/f_qnp2wd4992pqc9szncrqlm0000gn/T/rust_mozprofile.GwU6CoisB7nt"
+1548318521104	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548318521105	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548318522505	Marionette	INFO	Listening on port 60179
+1548318522571	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.capitaliq.com/CIQDotNet/WebResource.axd?d=0D0T0T80awIdHGTuVd15SdxDjwQGw8mDjt5IGJcEu1v-s61fC7qQm2Q1IJHof3ftcrpZjyEJwE0DMeW4uf9uDQDQyr6z-RM6RwrpUpoirEOx4tyTCa76ZC4lx-JLI-Ux0&t=636778012620805885, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1548318563469	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w4/f_qnp2wd4992pqc9szncrqlm0000gn/T/rust_mozprofile.1CWd4MFnhtpd"
+1548318564054	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548318564054	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548318565516	Marionette	INFO	Listening on port 60248
+1548318565610	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.capitaliq.com/CIQDotNet/WebResource.axd?d=0D0T0T80awIdHGTuVd15SdxDjwQGw8mDjt5IGJcEu1v-s61fC7qQm2Q1IJHof3ftcrpZjyEJwE0DMeW4uf9uDQDQyr6z-RM6RwrpUpoirEOx4tyTCa76ZC4lx-JLI-Ux0&t=636778012620805885, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1548550500074	Marionette	INFO	Stopped listening on port 60179
+1548550504558	Marionette	INFO	Stopped listening on port 59330
+1548570579571	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w4/f_qnp2wd4992pqc9szncrqlm0000gn/T/rust_mozprofile.Euc4Ri604knm"
+1548570580292	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548570580292	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548570582084	Marionette	INFO	Listening on port 49829
+1548570582118	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.capitaliq.com/CIQDotNet/WebResource.axd?d=0D0T0T80awIdHGTuVd15SdxDjwQGw8mDjt5IGJcEu1v-s61fC7qQm2Q1IJHof3ftcrpZjyEJwE0DMeW4uf9uDQDQyr6z-RM6RwrpUpoirEOx4tyTCa76ZC4lx-JLI-Ux0&t=636778012620805885, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+2019-01-27 14:30:34.114 firefox-bin[41606:6633139] -deltaZ is deprecated for NSEventTypeMagnify.  Please use -magnification.
+1548571004600	Marionette	INFO	Stopped listening on port 49829
+1548571010071	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w4/f_qnp2wd4992pqc9szncrqlm0000gn/T/rust_mozprofile.5TFKHIPxClq8"
+1548571010665	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548571010665	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548571012179	Marionette	INFO	Listening on port 50043
+1548571012226	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.capitaliq.com/CIQDotNet/WebResource.axd?d=0D0T0T80awIdHGTuVd15SdxDjwQGw8mDjt5IGJcEu1v-s61fC7qQm2Q1IJHof3ftcrpZjyEJwE0DMeW4uf9uDQDQyr6z-RM6RwrpUpoirEOx4tyTCa76ZC4lx-JLI-Ux0&t=636778012620805885, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript warning: https://www.capitaliq.com/CIQDotNet/WebResource.axd?d=0D0T0T80awIdHGTuVd15SdxDjwQGw8mDjt5IGJcEu1v-s61fC7qQm2Q1IJHof3ftcrpZjyEJwE0DMeW4uf9uDQDQyr6z-RM6RwrpUpoirEOx4tyTCa76ZC4lx-JLI-Ux0&t=636778012620805885, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w5.ciqimg.com/CIQDotNet/library/Combined/CIQScreening.js?urwvid=1074196026, line 542: unreachable code after return statement
+JavaScript warning: https://w2.ciqimg.com/CIQDOTNET/library/mootools.js?urwvid=1074196026, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+JavaScript warning: https://www.capitaliq.com/CIQDotNet/Screening/SaveScreenSection.aspx?UniqueScreenId=2064650685, line 1: unreachable code after return statement
+JavaScript warning: https://w2.ciqimg.com/CIQDOTNET/library/mootools.js?urwvid=1074196026, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+Can't find symbol 'GetGraphicsResetStatus'.
+Can't find symbol 'GetGraphicsResetStatus'.
